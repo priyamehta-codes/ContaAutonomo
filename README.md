@@ -1,7 +1,7 @@
 # ContaAutónomo — Invoice & Finance Manager
 
 A self-hosted web application for freelancers and small businesses to manage invoices, expenses, tax obligations, and financial reports. Built with Flask and a modular plugin architecture that adapts to different countries' tax systems.
-
+ 
 ## Features
 
 - Invoice management with PDF generation and customizable templates
